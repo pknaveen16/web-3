@@ -1,0 +1,56 @@
+/* CSS */
+
+body {
+    font-family: sans-serif;
+  }
+  
+  header {
+    text-align: center;
+  }
+  
+  nav {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  a {
+    text-decoration: none;
+    color: rgb(48, 152, 184);
+  }
+  
+  section {
+    padding: 20px;
+  }
+  
+  footer {
+    text-align: center;
+  }
+/* CSS */
+
+#contact {
+    padding: 20px;
+  }
+  
+  #contact form {
+    width: 500px;
+    margin: 0 auto;
+  }
+  
+  #contact input, #contact textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  #contact input[type="submit"] {
+    background-color: #4c5da1;
+    color: #3144c2;
+    font-size: 16px;
+    padding: 10px;
+    cursor: pointer;
+  }
+  body {
+    background-color: rgb(215, 231, 216);
+  }
+      
+  
